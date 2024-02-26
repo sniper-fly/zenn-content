@@ -1,5 +1,24 @@
 # 今後勉強したほうが良さそうなこと
 
+https://developer.mozilla.org/ja/docs/Learn/Front-end_web_developer
+MDNのフロントエンド解説が超詳しい＆丁寧
+
+https://developer.mozilla.org/ja/docs/Learn/Server-side/Express_Nodejs
+express のチュートリアル
+
+
+今までの章で曖昧なところを復習しつつ、
+https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations
+https://nextjs.org/docs/app/building-your-application/rendering/server-components
+https://nextjs.org/docs/app/building-your-application/rendering/edge-and-nodejs-runtimes
+これらを優先的に読み、
+https://nextjs.org/docs/app/building-your-application/testing
+testingを学び、
+https://nextjs.org/docs/app/building-your-application/routing
+routingからちょっとずつ読み進め続ける。
+結局、ウェブの最前線を走るフレームワークなので、フレームワークのことを
+しっかり理解して学べばウェブの最新の動向がわかる。
+
 https://ja.react.dev/reference/react/Suspense
 react suspense
 
