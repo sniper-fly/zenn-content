@@ -1,7 +1,24 @@
 # 今後勉強したほうが良さそうなこと
 
+https://nextjs.org/blog/security-nextjs-server-components-actions
+Next.jsのセキュリティについて
+サーバー側で実行されるコードと、クライアントで実行されるコードの厳密な区別
+
 https://developer.mozilla.org/ja/docs/Learn/Front-end_web_developer
 MDNのフロントエンド解説が超詳しい＆丁寧
+
+# その他勉強方法
+https://tailwindpractice.netlify.app/
+TailwindCSSでfrontend mentorを解いている人がいるので、これを参考にしつつ自分で実装する
+
+github で frontend mentor tailwind css のように検索するだけで色々出てくるので、
+参考にする文献に関しては困らなそう
+
+https://youtu.be/aljVv9nRuM0
+icodethisで勉強する
+
+https://tw-elements.com/learn/te-foundations/basics/introduction/
+example baseのtailwindレッスン
 
 https://developer.mozilla.org/ja/docs/Learn/Server-side/Express_Nodejs
 express のチュートリアル
