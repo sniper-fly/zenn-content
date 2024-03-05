@@ -1,4 +1,6 @@
 # 今後勉強したほうが良さそうなこと
+https://docs.aws.amazon.com/ja_jp/amazondynamodb/latest/developerguide/Introduction.html
+DynamoDBデベロッパーガイド
 
 https://nextjs.org/blog/security-nextjs-server-components-actions
 Next.jsのセキュリティについて
