@@ -26,6 +26,16 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+https://aws.amazon.com/jp/events/aws-event-resource/hands-on/
+VPSの作成から、スケーラブルウェブサイト構築までハンズオンをこなし
+同じサーバー環境をterraformで再現する
+
+https://engineers.weddingpark.co.jp/mysql-database-design/
+https://www.yodoq.com/2224.html
+レシートからPOSシステムを作成する例
+
+達人のDB入門を読んで、レシートから再現する
+
 https://docs.aws.amazon.com/ja_jp/amazondynamodb/latest/developerguide/Introduction.html
 DynamoDBデベロッパーガイド
 
