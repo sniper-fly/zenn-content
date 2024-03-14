@@ -26,6 +26,15 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+https://developer.mozilla.org/ja/docs/Learn
+MDNのウェブ開発まとめ
+基礎の全てがここにある
+
+Langchain
+
+https://www.anthropic.com/claude
+claudeを使ってみる
+
 https://aws.amazon.com/jp/events/aws-event-resource/hands-on/
 VPSの作成から、スケーラブルウェブサイト構築までハンズオンをこなし
 同じサーバー環境をterraformで再現する
