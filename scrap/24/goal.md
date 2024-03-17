@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+CORS とは何か
+https://developer.mozilla.org/ja/docs/Web/HTTP/CORS
+
 https://developer.mozilla.org/ja/docs/Learn
 MDNのウェブ開発まとめ
 基礎の全てがここにある
