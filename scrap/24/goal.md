@@ -26,6 +26,22 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- Docker, TailwindCSS, AWS, Terraform, Next.js, React, TypeScript,
+Spotify API, animetheme.api を利用した開発
+
+- エンジニアコミュニティ探し
+初学者等問わず色んな人が集まるところだと宣伝がしやすい
+色々活動していたら仕事ももらえたりするかも
+
+- エンジニアのスキルを活かした副業方法について
+udemyなどの不労所得
+個人開発の過程を動画化する
+https://jp.quora.com/Udemy-koushi-ni-shitsumon-desu-eigo-no-ko-su-ni-taishi-te-nihongo-ko-su-no-koukai-kazu-ha-dono-kurai-de-shou-ka
+udemy講師向けリソースまとめ
+
+- フリーランス案件探し
+適切な仕事探しサイトをまず見つける
+
 - React公式ドキュメント
 https://ja.react.dev/reference/react-dom/components/form
 formについて
