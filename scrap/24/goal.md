@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- 解きながら学ぶTerraform
+https://github.com/cnc4e/terraform-practice
+
 - typescript node のデバッグ方法
 https://qiita.com/fsd_maclala/items/5878af09e70258fa2e68
 https://nextjs-ja-translation-docs.vercel.app/docs/advanced-features/debugging
