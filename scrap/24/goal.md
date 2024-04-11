@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- typescript 型定義について gihyo
+https://blog.uhy.ooo/entry/2020-08-31/dont-fear-ts/
+
 - 解きながら学ぶTerraform
 https://github.com/cnc4e/terraform-practice
 
