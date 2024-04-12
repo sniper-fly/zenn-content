@@ -26,6 +26,10 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- API Gateway, Cloudfront を使ってDynamoDBのRCUを下げる場合の料金試算
+
+- AWS Cognito, SNS, SQS, SES, Elastic Cache
+
 - typescript 型定義について gihyo
 https://blog.uhy.ooo/entry/2020-08-31/dont-fear-ts/
 
