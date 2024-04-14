@@ -26,6 +26,10 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- Reactの設計方法について
+https://qiita.com/honey32/items/bc24d8c0ea3d096ff956
+https://qiita.com/honey32/items/4d04e454550fb1ed922c
+
 - browserがbundleを具体的にどう処理しているのか
 
 - Obsidian を S3で同期して静的ウェブサイトとしてホスティングする
