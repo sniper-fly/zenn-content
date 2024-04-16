@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- how to use obsidian
+https://publish.obsidian.md/help-ja/%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B
+
 - Reactの設計方法について
 https://qiita.com/honey32/items/bc24d8c0ea3d096ff956
 https://qiita.com/honey32/items/4d04e454550fb1ed922c
