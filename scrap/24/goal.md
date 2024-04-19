@@ -26,6 +26,20 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- Vitest
+https://vitest.dev/guide/
+
+- React Testing Library
+https://testing-library.com/docs/react-testing-library/example-intro
+
+- turso, cockroachDBの利点
+https://turso.tech/pricing
+https://www.cockroachlabs.com/pricing/
+
+- SWR, tansack などを使ってuseEffectを駆逐する
+https://swr.vercel.app/ja
+https://tanstack.com/query/v4
+
 - how to use obsidian
 https://publish.obsidian.md/help-ja/%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B
 
