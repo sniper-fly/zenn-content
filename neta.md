@@ -1,3 +1,4 @@
+- obsidian をubuntuでクイックランチャーからすぐに使えるようにする方法
 - ts の genericsで再帰が使える件について
 - AWSハンズオンをTerraform でやってみた
 - how to use spotify SDK

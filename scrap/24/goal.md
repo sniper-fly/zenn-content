@@ -26,6 +26,10 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- zod, superstruct
+https://typescriptbook.jp/reference/statements/unknown
+型を安全に絞り込むための宣言的なバリデーションライブラリ
+
 - Vitest
 https://vitest.dev/guide/
 
