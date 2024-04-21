@@ -26,6 +26,8 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- DynamoDBに直接データを入れる場合とS3 importを使った場合の料金比較
+
 - zod, superstruct
 https://typescriptbook.jp/reference/statements/unknown
 型を安全に絞り込むための宣言的なバリデーションライブラリ
