@@ -1,3 +1,4 @@
+- booleanはunion型？ (4/22)
 - obsidian をubuntuでクイックランチャーからすぐに使えるようにする方法
 - ts の genericsで再帰が使える件について
 - AWSハンズオンをTerraform でやってみた

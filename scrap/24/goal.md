@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- Typescriptの Equal util type について詳細
+https://zenn.dev/yumemi_inc/articles/ff981be751d26c
+
 - DynamoDBに直接データを入れる場合とS3 importを使った場合の料金比較
 
 - zod, superstruct
