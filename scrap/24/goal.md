@@ -26,6 +26,11 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- firebase
+
+- anime theme api の OSS開発
+anime theme server の方から直接データを引っ張り出せるのでは？
+
 - Typescriptの Equal util type について詳細
 https://zenn.dev/yumemi_inc/articles/ff981be751d26c
 
