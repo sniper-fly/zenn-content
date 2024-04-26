@@ -26,6 +26,11 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- Ubuntu 24.04 システムのgit管理
+
+- SQL詳細
+https://qiita.com/katayamahide/items/48f7a78dab3497adcd0c
+
 - firebase
 
 - anime theme api の OSS開発
