@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- Terraform ベストプラクティス
+https://cloud.google.com/docs/terraform/best-practices-for-terraform?hl=ja
+
 - Ubuntu 24.04 システムのgit管理
 
 - SQL詳細
