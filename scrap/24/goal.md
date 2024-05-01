@@ -26,6 +26,14 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- Next.js をVercel以外でデプロイする場合、CDNの設定はどうする？
+
+- tidb education
+`https://www.pingcap.com/education/?_gl=1*ukxncr*_ga*MTAxNTc5NDAzLjE3MTQzODA4MTA.*_ga_3JVXJ41175*MTcxNDUzNTE5MC40LjEuMTcxNDUzNjAxNC4yNy4wLjA.`
+
+- カリー化 高階関数 部分適用
+https://qiita.com/nouka/items/d9f29db7b6a69baa650a
+
 - Terraform ベストプラクティス
 https://cloud.google.com/docs/terraform/best-practices-for-terraform?hl=ja
 
