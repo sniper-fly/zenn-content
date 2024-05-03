@@ -26,6 +26,8 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- gRPC
+
 - Next.js をVercel以外でデプロイする場合、CDNの設定はどうする？
 
 - tidb education
