@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- docker networkについて
+https://qiita.com/Toyo_m/items/52fa81948d5746dd2afc
+
 - gRPC
 
 - Next.js をVercel以外でデプロイする場合、CDNの設定はどうする？
