@@ -1,4 +1,5 @@
-- lambdazip_provider を活用してtypescriptをデプロイする
+- lambda関数にnpmバンドルしたnodeプロジェクトをzipデプロイする
+https://github.com/sniper-fly/typescript-lambda-function-with-terraform
 - comment tagged templates 拡張機能が動作しない件(競合)
 - booleanはunion型？ (4/22)
 - obsidian をubuntuでクイックランチャーからすぐに使えるようにする方法
