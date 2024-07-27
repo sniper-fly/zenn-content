@@ -26,6 +26,9 @@
   - (6)
 
 # 今後勉強したほうが良さそうなこと
+- コンビニレシートを使ったDB設計
+https://engineers.weddingpark.co.jp/mysql-database-design/
+
 - React sentry エラー監視
 https://sentry.io/for/react/?rdt_cid=4837438544186303114&utm_campaign=errors-fy24q3-react&utm_content=static-ad-reactterminalerror-trysentry&utm_id=1786538982646793101&utm_medium=paid-social&utm_source=reddit
 
