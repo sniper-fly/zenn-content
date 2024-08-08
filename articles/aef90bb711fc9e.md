@@ -12,7 +12,7 @@ Typescriptで、外部のライブラリも利用したLambda関数をTerraform�
 https://dev.classmethod.jp/articles/deploy-typescript-lambda-function-with-terraform/
 
 しかし、上記の方法ではコードをs3にアップロードする際にTerraformのリソースの中で
-aws cliのコマンドがベタ書きされているため、以下のような問題があると思いました。
+aws cliのコマンドがベタ書きされているため、以下のような問題があると感じました。
 - terraform destroy でリソースをうまく削除できない
 - aws cli がローカル環境にない場合に動作しない
 - Terraformのリソースとaws cliで異なるコンテキストが混ざって可読性と保守性が落ちる
@@ -20,6 +20,10 @@ aws cliのコマンドがベタ書きされているため、以下のような�
 そこで、勝手ながらリポジトリをforkして、大まかな思想を引き継ぎつつもより簡潔にデプロイが出来る構成を検討しました。
 
 https://github.com/sniper-fly/typescript-lambda-function-with-terraform
+
+結論から言うと、`terraform apply`だけでパッケージのインストール、ビルドなどを行うのは難しく、makefileを活用する方針にしました。
+terraform の [archive_file](https://registry.terraform.io/providers/hashicorp/archive/latest/docs/data-sources/file)はterraform plan の段階で実行されるため、[terraform_data](https://developer.hashicorp.com/terraform/language/resources/terraform-data) (null_resourceの後継)の前に実行されてしまいます。
+これでは、npmでビルドする前のzipイメージがAWSにアップロードされてしまうため、
 
 terraform apply だけで下記の処理が実行できます。
 - npm でのパッケージインストール

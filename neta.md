@@ -7,6 +7,3 @@ https://github.com/sniper-fly/typescript-lambda-function-with-terraform
 - AWSハンズオンをTerraform でやってみた
 - how to use spotify SDK
 - AWS IAMユーザー作成と.envの自動作成まで
-- Next.js Docker vscodeデバッグ方法
-
-- Next.jsよくあるエラー

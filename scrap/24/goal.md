@@ -117,8 +117,6 @@ https://qiita.com/honey32/items/4d04e454550fb1ed922c
 
 - browserがbundleを具体的にどう処理しているのか
 
-- Obsidian を S3で同期して静的ウェブサイトとしてホスティングする
-
 - API Gateway, Cloudfront を使ってDynamoDBのRCUを下げる場合の料金試算
 
 - AWS Cognito, SNS, SQS, SES, Elastic Cache
