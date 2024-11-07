@@ -19,6 +19,7 @@ published: true
 Lambda上でPlaywrightを動かしてみたかったのですが、殆どがDockerイメージを使うものでした。動作させるだけであればこちらでも可ですが、
 - ECRでのイメージの管理が個人的にTerraformではやりづらい
 - ECRで大量のプライベートイメージを作ると課金額がバカにならない
+
 ということでどうにかLambdaレイヤーだけで動作させられないか、と考えました。
 
 [LambdaでPlaywrightを動かす(Lambdaレイヤー / コンテナ) | 豆蔵デベロッパーサイト](https://developer.mamezou-tech.com/blogs/2024/07/19/lambda-playwright-container-tips/)
