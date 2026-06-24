@@ -2,8 +2,8 @@
 title: "Loop Engineering 時代の多層防御サンドボックスを本気で考えてみた"
 emoji: "🌱"
 type: "tech"
-topics: ["security", "claudecode", "llm", "mitmproxy", "sandbox"]
-published: false
+topics: ["security", "claudecode", "sandbox", "loopengineering", "promptinjection"]
+published: true
 ---
 
 
@@ -257,7 +257,7 @@ HeartGarden が出した答えは三方向の多層防御だ。
 
 HeartGarden は銀の弾丸ではないが、安全な手放し運用を成立させる多層防御の現実解の一例として参考になれば幸いだ。
 
-なお、HeartGarden 自体の OSS 化も需要があればやってみたいと考えている。コメントや反応で関心が見えるようなら、整備を進めていきたい。
+(なお、HeartGarden 自体の OSS 化に関してはまだまだハードルがあるが、需要があれば...)
 
 ---
 
