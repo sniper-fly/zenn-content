@@ -49,7 +49,7 @@ alias hg='just --justfile <path/to/HeartGarden>/justfile --working-directory .'
 hg claude
 ```
 
-`hg claude` を実行すると、Podman の Workspace コンテナ上で Claude Code が起動する。コンテナにバインドマウントされるのはコマンドを実行したカレントディレクトリだけで、その範囲の外側には自然に FS 分離が成立する（詳細は 7.2）。
+`hg claude` を実行すると、Podman の Workspace コンテナ上で Claude Code が起動する。コンテナにバインドマウントされるのはコマンドを実行したカレントディレクトリだけで、その範囲の外側には FS 分離が成立する（詳細は 7.2）。
 
 Claude Code 本体の履歴やセッション、ツールキャッシュなどは別途名前付きボリュームと専用のマウント点で永続化されるため、コンテナを再起動しても直前の作業状態のまま再開できる。普段使いの感覚は `claude` のままで、その背後でコンテナ隔離と本記事で述べた各防御層が働くという構成だ。
 
